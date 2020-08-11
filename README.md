@@ -1,5 +1,5 @@
-# SpliX ML-1860/1865 PPD
-My custom PPD to make Samsung ML-1860/1865 printer work with [SpliX](http://splix.ap2c.org/). Tested and working on Raspberry Pi.
+# SpliX ML-1860/1865 and ML-1670 PPD
+My custom PPDs to make Samsung ML-1860/1865 and ML-1670 printer work with [SpliX](http://splix.ap2c.org/). Tested and working on Raspberry Pi.
 
 Manual duplex is working as intended. A4 is the default paper size.
 
